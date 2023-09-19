@@ -14,6 +14,7 @@ int main()
 {
 
     int t;
+    cout<<"No. of test cases:";
     cin>>t;//testcases
 
     for(int i=0;i<t;i++)
